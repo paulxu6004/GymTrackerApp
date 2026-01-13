@@ -1,0 +1,47 @@
+{
+    "workoutHistory": {
+        "Push": [
+            {
+                "focus": "Push",
+                "date": "2024-01-15",
+                "exercises": [
+                    {
+                        "name": "Bench Press",
+                        "sets": 3,
+                        "reps": 10,
+                        "weight": 185.0,
+                        "volume": 5550.0,
+                        "orm": 225.0,
+                        "ormIsEstimated": false
+                    },
+                    {
+                        "name": "Shoulder Press",
+                        "sets": 3,
+                        "reps": 12,
+                        "weight": 95.0,
+                        "volume": 3420.0,
+                        "orm": 115.0,
+                        "ormIsEstimated": false
+                    }
+                ]
+            }
+        ],
+        "Legs": [
+            {
+                "focus": "Legs",
+                "date": "2024-01-16",
+                "exercises": [
+                    {
+                        "name": "Squat",
+                        "sets": 4,
+                        "reps": 8,
+                        "weight": 225.0,
+                        "volume": 7200.0,
+                        "orm": 275.0,
+                        "ormIsEstimated": false
+                    }
+                ]
+            }
+        ]
+    }
+}
